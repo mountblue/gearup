@@ -5,7 +5,7 @@ For trainees
 
 #### Get Started
 
-1.     Sign up for FreeCodeCamp at [https://www.freecodecamp.org/](https://www.freecodecamp.org/). Go to settings and make your profile public.
+1. Sign up for FreeCodeCamp at [https://www.freecodecamp.org/](https://www.freecodecamp.org/). Go to settings and make your profile public.
 2. Sign up for basic Hack Reactor Prep Course. [https://www.hackreactor.com/prep-programs](https://www.hackreactor.com/prep-programs)
 3. Signup on CodePen at [https://codepen.io/](https://codepen.io/).
 4. Signup on Github at [https://github.com/](https://github.com/).
