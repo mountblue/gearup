@@ -6,7 +6,7 @@ For trainees
 #### Get Started
 
 1. Sign up for FreeCodeCamp at [https://www.freecodecamp.org/](https://www.freecodecamp.org/). Go to settings and make your profile public.
-2. Sign up for basic Hack Reactor Prep Course. [https://www.hackreactor.com/prep-programs](https://www.hackreactor.com/prep-programs)
+2. Sign up for basic Hack Reactor Prep Course. [https://prep.hackreactor.com/p/hack-reactor-prep](https://prep.hackreactor.com/p/hack-reactor-prep)
 3. Signup on CodePen at [https://codepen.io/](https://codepen.io/).
 4. Signup on Github at [https://github.com/](https://github.com/).
 
@@ -24,7 +24,7 @@ Text link: [Learn enough Git to be dangerous](https://www.learnenough.com/git-tu
 
 1. Complete Responsive Web Design Certification on [FreeCodeCamp](https://learn.freecodecamp.org/). Check the resources section for reference. 
 2. Complete the JavaScript Algorithms and Data Structures Certification on [FreeCodeCamp](https://learn.freecodecamp.org/).
-3. Complete all exercises on [Hackreactor Basic Prep](https://www.hackreactor.com/prep-programs/). Fork the questions in CodePen to your own account. Complete all the exercises in JavaScript. Keep a track of all the solutions on Codepen as pens.
+3. Complete all exercises on [Hackreactor Basic Prep](https://prep.hackreactor.com/p/hack-reactor-prep). Fork the questions in CodePen to your own account. Complete all the exercises in JavaScript. Keep a track of all the solutions on Codepen as pens.
 4. Watch the Time Complexity videos at [https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0](https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
 
 ----
