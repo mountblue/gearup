@@ -25,7 +25,17 @@ Text link: [Learn enough Git to be dangerous](https://www.learnenough.com/git-tu
 1. Complete Responsive Web Design Certification on [FreeCodeCamp](https://learn.freecodecamp.org/). Check the resources section for reference. 
 2. Complete the JavaScript Algorithms and Data Structures Certification on [FreeCodeCamp](https://learn.freecodecamp.org/).
 3. Complete all exercises on [Hackreactor Basic Prep](https://prep.hackreactor.com/p/hack-reactor-prep). Fork the questions in CodePen to your own account. Complete all the exercises in JavaScript. Keep a track of all the solutions on Codepen as pens.
-4. Watch the Time Complexity videos at [https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0](https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
+4. Watch the Complexity videos.
+
+[Time Complexity Summary](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn) (30 minutes) on mycodeschool - 4 videos
+
+[Complexity for recursive programs](https://www.youtube.com/watch?v=ncpTxqK35PI) (8 minutes) on mycodeschool
+
+(Optional) Additionally you can refer to the Algorithms and Data Structures course by Ravindrababu Ravula on youtube (First 6 videos cover ): [https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0](https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
+
+Create an account on [Interviewbit](https://www.interviewbit.com) and solve the practice problems in the Time Complexity section.
+
+[Measuring execution time in JavaScript](https://blog.mariusschulz.com/2013/11/22/measuring-execution-times-in-javascript-with-consoletime)
 
 ----
 
