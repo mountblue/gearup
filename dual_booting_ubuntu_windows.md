@@ -76,9 +76,9 @@ If you have UEFI boot enabled, try Ubuntu in UEFI mode. Or if you have legacy bo
 
 If your Live Ubuntu is detecting Wifi (you can find the icon in the top right bar), we are good. Make sure internet works by running Firefox and checking internet.
 
-If Wifi driver did not get detected, **ABORT MISSION!!**
+If Wifi driver did not get detected, check if USB tethering works. At this point you have to take a call. If you have a mobile with USB tethering or a JioFi deveice, USB tethering can work but it is a bit cumbersome.
 
-Try again with an Ubuntu 19.04 live Ubuntu installlation.
+Try again with an Ubuntu 19.04 live check or Ubuntu 20.04 live check.
 
 ### Gparted
 
