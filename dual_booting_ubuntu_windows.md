@@ -1,10 +1,15 @@
 # Guide to Dual Boot Windows and Ubuntu
 
 * This guide assumes you are installing Ubuntu 18.04 or later (64 bit version)
-* This guide is an overview. It does not cover a lot of corner cases which open come up while doing the process. Also some points might be confusing to the new user. 
+* This guide is an overview. It does not cover a lot of corner cases which often come up while doing the process. Also some points might be confusing to the new user. 
 * There are reference links to other resources which explain the steps in further detail. I highly recommend reading them.
 * If your Windows is installed in legacy mode i.e. MBR(Master Boot Record) style partitioning, install Linux in legacy mode
-* If your Linux is installed in UEFT mode i.e. GPT style hard disk partitioning, install Linux in UEFI mode
+* If your Linux is installed in UEFI mode i.e. GPT style hard disk partitioning, install Linux in UEFI mode
+* Do not skip any step. Go in sequence.
+* Running your Linux distribution live without installing is a good way to test if wifi, sound and graphics are working properly.
+* Disabling Fast Boot, Hibernation and Secure Boot are *really important*.
+* If you want to keep Windows as an option, then detection of Windows Boot Manager in Step 4 of the installation process is really important.
+* Remember Ubuntu likes ext4 partitioning, Windows likes ntfs. You can change the partition type using Gparted.
 
 Reference Links:
 
