@@ -6,10 +6,10 @@
 * If your Windows is installed in legacy mode i.e. MBR(Master Boot Record) style partitioning, install Linux in legacy mode
 * If your Linux is installed in UEFI mode i.e. GPT style hard disk partitioning, install Linux in UEFI mode
 * Do not skip any step. Go in sequence.
-* Running your Linux distribution live without installing is a good way to test if wifi, sound and graphics are working properly.
-* Disabling Fast Boot, Hibernation and Secure Boot are *really important*.
+* Running your **Linux distribution live without installing** is a good way to test if wifi, sound and graphics are working properly.
+* Disabling Fast Boot, Hibernation and Secure Boot are **really important**.
 * If you want to keep Windows as an option, then detection of Windows Boot Manager in Step 4 of the installation process is really important.
-* Remember Ubuntu likes ext4 partitioning, Windows likes ntfs. You can change the partition type using Gparted.
+* Remember Ubuntu likes ext4 partitioning, Windows likes ntfs. You can change the partition type using Gparted for the target partition for Linux installation.
 
 Reference Links:
 
