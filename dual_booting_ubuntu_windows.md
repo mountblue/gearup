@@ -39,7 +39,7 @@ Open the Command Prompt in Administrator mode by right clicking the Command Prom
 Enter the commands
 
 ```
-disk part
+diskpart
 
 list disk
 ```
