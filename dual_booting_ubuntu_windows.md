@@ -4,7 +4,7 @@
 * This guide is an overview. It does not cover a lot of corner cases which often come up while doing the process. Also some points might be confusing to the new user. 
 * There are reference links to other resources which explain the steps in further detail. I highly recommend reading them.
 * If your Windows is installed in legacy mode i.e. MBR(Master Boot Record) style partitioning, install Linux in legacy mode
-* If your Linux is installed in UEFI mode i.e. GPT style hard disk partitioning, install Linux in UEFI mode
+* If your Windows is installed in UEFI mode i.e. GPT style hard disk partitioning, install Linux in UEFI mode
 * Do not skip any step. Go in sequence.
 * Running your **Linux distribution live without installing** is a good way to test if wifi, sound and graphics are working properly.
 * Disabling Fast Boot, Hibernation and Secure Boot are **really important**.
